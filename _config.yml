@@ -21,7 +21,7 @@ repository               : "sahanakowshik/sahanakowshik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sahana.jpg"
   name             : "Sahana Kowshik"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Faculty of Computing & Data Sciences"
